@@ -1,0 +1,16 @@
+.root-container {
+    margin-left: 6px;
+    padding-left: 6px;
+    background-color: rgb(155, 198, 248);
+}
+
+.flex-container {
+    display: flex;
+}
+
+.flex-child {
+    flex: 1;
+    /* border: 2px solid blue; */
+    margin: 6px;
+    /* padding: 10px; */
+} 
