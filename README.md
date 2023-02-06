@@ -1,4 +1,4 @@
-# Basic One-Way Example
+# Micro-frontend Example
 
 This example demos a basic host application loading remote component.
 

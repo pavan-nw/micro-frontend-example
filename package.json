@@ -11,7 +11,7 @@
     "start": "lerna run --scope=basic-host-remote_app* --parallel start",
     "build": "lerna run --scope=basic-host-remote_app* --parallel build",
     "serve": "lerna run --scope=basic-host-remote_app* --parallel serve",
-    "clean": "lerna run --scope=basic-host-remote_app* --parallel clean",
+    "clean": "lerna run --scope=basic-host-remote_app* --parallel clean"
   },
   "devDependencies": {
     "lerna": "3.22.1",
